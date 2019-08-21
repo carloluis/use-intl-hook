@@ -1,0 +1,29 @@
+{
+  "name": "use-intl-hook",
+  "version": "0.0.1",
+  "description": "React custom hook to access intl object from react-intl",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carloluis/use-intl-hook.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "react-hooks",
+    "react-intl",
+    "react-hook",
+    "react-custom-hook",
+    "internationalization"
+  ],
+  "author": "Carloluis Rodríguez <carloluisr@gmail.com> (https://github.com/carloluis)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carloluis/use-intl-hook/issues"
+  },
+  "homepage": "https://github.com/carloluis/use-intl-hook#readme",
+  "peerDependencies": {
+    "react": "^16.8.0",
+    "react-intl": "^2.9.0"
+  }
+}
