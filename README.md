@@ -2,6 +2,8 @@
 
 > React `use-intl-hook` for [react-intl](https://github.com/formatjs/react-intl).
 
+:information_source: Now, you can simply use the `useIntl` available on react-intl. Check the API docs [here](https://github.com/formatjs/react-intl/blob/master/docs/API.md#useintl-hook)
+
 ## Install
 
 ```bash
